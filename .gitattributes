@@ -1,0 +1,6 @@
+1_crash_locations.csv filter=lfs diff=lfs merge=lfs -text
+a_road_casualties.csv filter=lfs diff=lfs merge=lfs -text
+b_driverdemographics.csv filter=lfs diff=lfs merge=lfs -text
+c_restraint_helmet_use.csv filter=lfs diff=lfs merge=lfs -text
+d_vehicle_involvement.csv filter=lfs diff=lfs merge=lfs -text
+e_alcohol_speed_fatigue_defect.csv filter=lfs diff=lfs merge=lfs -text
